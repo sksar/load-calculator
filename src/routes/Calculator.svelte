@@ -151,7 +151,6 @@
                       />
                     </Table.Cell>
                     <Table.Cell>
-                      {load.intervalUnit}
                       <IntervalUnit bind:value={load.intervalUnit} />
                     </Table.Cell>
                     <Table.Cell>
